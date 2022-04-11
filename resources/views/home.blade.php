@@ -40,7 +40,7 @@
 <script>
   
     var firebaseConfig = {
-        apiKey: "AIzaSyCGpgJeV0vG8X7wf_17pmp4c8xHlocKt_w",
+        apiKey: "xxxxxxxxxxxxxxxxxxx",
         authDomain: "laravel-push-notif-2c447.firebaseapp.com",
         projectId: "laravel-push-notif-2c447",
         storageBucket: "laravel-push-notif-2c447.appspot.com",
